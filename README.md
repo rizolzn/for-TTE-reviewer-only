@@ -1,6 +1,6 @@
 # for-IEEE-reviewer-only
 Some of the testing videos of tire blowout system 
-for TTE reviewer only (private)
+for IEEE reviewer only (private)
 
 1: tireBlowout_witout_ctrl_60km_unload_testing
 2: tireBlowout_with_ctrl_insidePerspective_80km_unload_testing
